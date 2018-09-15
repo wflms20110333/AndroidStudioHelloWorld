@@ -4,7 +4,7 @@
 Hello World application to learn Android Studio :)
 
 ### App Walk-though
-<img src=".giphy.com/media/cJDczgwdcoXv8XNB7Y/giphy.gif" width=200><br>
+<img src="https://media.giphy.com/media/cJDczgwdcoXv8XNB7Y/giphy.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
