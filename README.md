@@ -1,7 +1,7 @@
 ## Android Studio Hello World
 
 ### App Description
-Hello World application to learn Android Studio :)
+Hello World application created to learn Android Studio :)
 
 ### App Walk-though
 <img src="https://media.giphy.com/media/cJDczgwdcoXv8XNB7Y/giphy.gif" width=200><br>
